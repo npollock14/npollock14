@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate developer who loves to create and
 ## 🌱 Current Projects & Interests
 
 - 🛠 I'm currently working on ![WordMath](https://github.com/npollock14/WordMath).
-<!--- 🌐 Want to see my (under construction) portfolio? Check [here](https://nathanpollock.com). -->
+- 🌐 Want to see my (under construction) portfolio? Check [here](https://nathanpollock.com).
 
 ## 📊 Analytics
 
