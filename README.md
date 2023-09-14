@@ -9,7 +9,7 @@ Welcome to my GitHub profile. I'm a passionate developer who loves to create and
 
 ## 📊 Analytics
 
-I love looking at insights into my development habits. Here's some of them:
+Here are some cool analytics on my development habits:
 
 ### 🏆 Total Time Spent Programming
 
