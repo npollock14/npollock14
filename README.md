@@ -1,6 +1,6 @@
-# Hi there, I'm Nathan! 👋
+# Hi, I'm Nathan!
 
-Welcome to my GitHub profile. I'm a passionate developer who loves to create and learn. Here, you can find some of the projects I've worked on, and gain some insight into my journey.
+- Former intern at Microsoft and Viasat
 
 ## 🌱 Current Projects & Interests
 
@@ -29,6 +29,4 @@ Here are some cool analytics on my development habits:
 
 ## 🤝 Let's Connect
 
-If you're interested in collaborating or just want to say hi, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/nathanpollock14/) or email [ndpollock@wpi.edu](mailto:ndpollock@wpi.edu).
-
-Thanks for stopping by! 😊
+Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/nathanpollock14/) or email [ndpollock@wpi.edu](mailto:ndpollock@wpi.edu).
