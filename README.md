@@ -24,7 +24,8 @@ Here are some cool analytics on my development habits:
 
 ### 🌈 Languages Used 
 
-![Languages Used](https://wakatime.com/share/@NathanP/a8a55e0f-468f-4a73-a069-6e08bdc5ed36.svg)
+<figure><img src="https://wakatime.com/share/@NathanP/6b62c249-f0d7-401c-a973-bab77bb78be0.svg"></img></figure>
+  
 **(over the last year)**
 
 ## 🤝 Let's Connect
