@@ -1,11 +1,8 @@
 # Hi, I'm Nathan!
 
-- Former intern at Microsoft and Viasat
-
 ## 🌱 Current Projects & Interests
 
 - 🛠 I'm currently working on ![WordMath](https://github.com/npollock14/WordMath).
-- 🌐 Want to see my (under construction) portfolio? Check [here](https://nathanpollock.com).
 
 ## 📊 Analytics
 
