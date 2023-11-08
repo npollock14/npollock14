@@ -2,7 +2,11 @@
 
 ## 🌱 Current Projects & Interests
 
-- 🛠 I'm currently working on ![WordMath](https://github.com/npollock14/WordMath).
+- 🛠 Working on ![WordMath](https://github.com/npollock14/WordMath):
+  - a playground to add and subtract the semantic meaning of words ie `King-Man+Woman=Queen`
+  - see the live demo here: ![https://wordmath.nathanpollock.com/](https://wordmath.nathanpollock.com/)
+- 🛠 Working on ![ChatGPT-Cost-Estimator](https://github.com/npollock14/ChatGPT-Cost-Estimator/tree/main)
+  -  a tool to compare the cost of ChatGPT Pro Subscription with the OpenAI API for your use case
 
 ## 📊 Analytics
 
